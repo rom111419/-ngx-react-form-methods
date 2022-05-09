@@ -1,0 +1,21 @@
+{
+  "name": "@rom111419/ngx-react-form-methods",
+  "description": "Library provide additional form methods",
+  "author": "Roman Zhukov",
+  "license": "Apache-2.0 License",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=16.13.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.1.0",
+    "@angular/core": "^13.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rom111419/ngx-react-form-methods"
+  }
+}
