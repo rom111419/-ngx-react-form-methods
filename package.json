@@ -17,5 +17,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rom111419/ngx-react-form-methods"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm version patch"
+    }
   }
 }
