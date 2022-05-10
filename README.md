@@ -3,4 +3,4 @@
 Library provide additional form methods.
 
     Changes log:
-    - project initiation
+      - husky added
