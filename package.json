@@ -3,9 +3,14 @@
   "description": "Library provide additional form methods",
   "author": "Roman Zhukov",
   "license": "Apache-2.0 License",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "node": ">=16.13.0"
+  },
+  "scripts": {
+    "ngx-react-form-methods__watch": "ng build ngx-react-form-methods --watch",
+    "ngx-react-form-methods__build-dev": "ng build ngx-react-form-methods --configuration development",
+    "ngx-react-form-methods__build": "ng build ngx-react-form-methods"
   },
   "peerDependencies": {
     "@angular/common": "^13.1.0",
@@ -14,14 +19,8 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "devDependencies": {
-    "husky": "^8.0.1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/rom111419/ngx-react-form-methods"
-  },
-  "scripts": {
-    "prepare": "husky install"
   }
 }
