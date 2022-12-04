@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { FormArray, FormBuilder, FormControl, FormGroup } from '@angular/forms';
-import { FormGeneratorService } from '@rom111419/ngx-form-generator';
+import { FormGeneratorService } from 'projects/ngx-form-generator/src/public-api';
 
 @Injectable({
   providedIn: 'root',
