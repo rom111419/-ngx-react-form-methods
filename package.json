@@ -3,7 +3,7 @@
   "description": "Library provide additional form methods",
   "author": "Roman Zhukov",
   "license": "Apache-2.0 License",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "engines": {
     "node": ">=16.13.0"
   },
